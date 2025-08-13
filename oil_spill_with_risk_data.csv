@@ -1,0 +1,501 @@
+Incident_ID,Date,Location,Trigger_Type,Spill_Volume_Barrels,Detected_By,Response_Time_Hours,Environmental_Impact_Score,Cleanup_Method,Financial_Loss_USD_M,Risk_Score,Risk_Level
+INC1000,2023-01-01,Bay of Bengal,Natural Event,225.38,Automated Sensor,3.1,8.5,Skimmers,2.18,617.9774193548387,Critical
+INC1001,2023-01-02,South China Sea,Infrastructure,123.18,Automated Sensor,4.1,1.1,Skimmers,4.65,33.048292682926835,Low
+INC1002,2023-01-03,North Sea,Infrastructure,38.63,Automated Sensor,9.0,4.4,Vacuum Trucks,1.26,18.885777777777783,Low
+INC1003,2023-01-04,South China Sea,Mechanical Failure,22.15,Automated Sensor,8.5,4.0,Vacuum Trucks,0.0,10.423529411764704,Low
+INC1004,2023-01-05,South China Sea,Natural Event,21.73,Coast Guard,2.9,1.2,Vacuum Trucks,1.17,8.991724137931035,Low
+INC1005,2023-01-06,Arabian Sea,Mechanical Failure,125.21,Automated Sensor,3.6,2.1,Bioremediation,3.06,73.03916666666666,Moderate
+INC1006,2023-01-07,North Sea,Human Error,48.0,Automated Sensor,5.1,4.7,Vacuum Trucks,2.24,44.235294117647065,Low
+INC1007,2023-01-08,North Sea,Human Error,55.68,Crew,7.8,5.4,Dispersants,1.69,38.54769230769231,Low
+INC1008,2023-01-09,North Sea,Mechanical Failure,86.5,Satellite,5.1,4.6,Bioremediation,2.84,78.01960784313725,Moderate
+INC1009,2023-01-10,South China Sea,Infrastructure,40.38,Satellite,3.7,5.8,Skimmers,0.0,63.29837837837838,Moderate
+INC1010,2023-01-11,Bay of Bengal,Infrastructure,68.84,Crew,4.9,6.4,Skimmers,2.21,89.9134693877551,Moderate
+INC1011,2023-01-12,North Sea,Mechanical Failure,37.41,Crew,3.7,1.1,Skimmers,3.68,11.12189189189189,Low
+INC1012,2023-01-13,South China Sea,Mechanical Failure,51.37,Coast Guard,6.2,5.2,Bioremediation,2.82,43.08451612903226,Low
+INC1013,2023-01-14,Arabian Sea,Human Error,142.22,Coast Guard,3.6,9.7,Dispersants,3.04,383.20388888888886,High
+INC1014,2023-01-15,Bay of Bengal,Infrastructure,89.91,Coast Guard,4.0,5.7,Vacuum Trucks,4.4,128.12175,Moderate
+INC1015,2023-01-16,Arabian Sea,Mechanical Failure,141.85,Crew,7.3,7.1,Vacuum Trucks,1.9,137.96369863013697,Moderate
+INC1016,2023-01-17,Bay of Bengal,Human Error,47.46,Crew,3.5,3.8,Skimmers,1.02,51.528,Moderate
+INC1017,2023-01-18,South China Sea,Infrastructure,125.86,Automated Sensor,2.1,8.0,Skimmers,3.78,479.46666666666664,High
+INC1018,2023-01-19,Gulf of Mexico,Natural Event,16.24,Coast Guard,5.2,8.0,Bioremediation,3.76,24.98461538461538,Low
+INC1019,2023-01-20,Bay of Bengal,Human Error,86.48,Coast Guard,4.3,5.7,Dispersants,2.84,114.63627906976745,Moderate
+INC1020,2023-01-21,Arabian Sea,Infrastructure,131.72,Coast Guard,6.0,9.8,Vacuum Trucks,1.76,215.14266666666666,High
+INC1021,2023-01-22,South China Sea,Infrastructure,15.51,Satellite,5.6,2.1,Bioremediation,2.0,5.81625,Low
+INC1022,2023-01-23,Bay of Bengal,Human Error,47.94,Automated Sensor,4.9,1.2,Vacuum Trucks,0.08,11.740408163265306,Low
+INC1023,2023-01-24,Gulf of Mexico,Natural Event,86.43,Coast Guard,4.9,7.9,Skimmers,3.67,139.34632653061226,Moderate
+INC1024,2023-01-25,Gulf of Mexico,Human Error,166.63,Coast Guard,3.5,8.3,Vacuum Trucks,3.62,395.1511428571429,High
+INC1025,2023-01-26,North Sea,Infrastructure,51.37,Coast Guard,5.2,2.1,Dispersants,0.03,20.74557692307692,Low
+INC1026,2023-01-27,North Sea,Mechanical Failure,122.42,Satellite,6.8,3.4,Dispersants,3.3,61.21,Moderate
+INC1027,2023-01-28,Arabian Sea,Mechanical Failure,215.32,Satellite,3.1,1.2,Skimmers,2.61,83.34967741935482,Moderate
+INC1028,2023-01-29,Bay of Bengal,Human Error,126.41,Crew,5.0,3.6,Dispersants,0.47,91.01520000000001,Moderate
+INC1029,2023-01-30,Bay of Bengal,Infrastructure,70.9,Automated Sensor,7.1,8.0,Dispersants,0.19,79.88732394366198,Moderate
+INC1030,2023-01-31,North Sea,Mechanical Failure,109.66,Crew,6.0,5.7,Bioremediation,2.56,104.177,Moderate
+INC1031,2023-02-01,Bay of Bengal,Infrastructure,50.11,Automated Sensor,7.6,4.1,Vacuum Trucks,1.4,27.033026315789474,Low
+INC1032,2023-02-02,Bay of Bengal,Human Error,89.05,Satellite,3.9,4.3,Skimmers,4.73,98.18333333333332,Moderate
+INC1033,2023-02-03,Gulf of Mexico,Mechanical Failure,73.68,Coast Guard,1.3,1.0,Skimmers,3.43,56.67692307692308,Moderate
+INC1034,2023-02-04,North Sea,Infrastructure,107.08,Crew,5.4,3.7,Skimmers,2.71,73.36962962962963,Moderate
+INC1035,2023-02-05,South China Sea,Mechanical Failure,59.47,Coast Guard,5.7,6.8,Skimmers,2.78,70.94666666666666,Moderate
+INC1036,2023-02-06,North Sea,Human Error,111.48,Crew,7.7,9.8,Skimmers,4.0,141.88363636363638,Moderate
+INC1037,2023-02-07,South China Sea,Infrastructure,59.01,Satellite,7.4,8.6,Dispersants,3.27,68.57918918918918,Moderate
+INC1038,2023-02-08,Gulf of Mexico,Mechanical Failure,153.16,Satellite,6.1,1.2,Bioremediation,2.75,30.129836065573773,Low
+INC1039,2023-02-09,Arabian Sea,Human Error,64.01,Satellite,6.5,9.1,Skimmers,0.53,89.614,Moderate
+INC1040,2023-02-10,Bay of Bengal,Mechanical Failure,8.86,Crew,4.6,8.0,Bioremediation,6.59,15.408695652173913,Low
+INC1041,2023-02-11,Gulf of Mexico,Mechanical Failure,33.73,Automated Sensor,2.6,8.0,Bioremediation,0.35,103.78461538461538,Moderate
+INC1042,2023-02-12,Bay of Bengal,Natural Event,84.53,Crew,5.2,5.1,Dispersants,1.53,82.90442307692307,Moderate
+INC1043,2023-02-13,Arabian Sea,Natural Event,245.15,Automated Sensor,7.0,4.6,Skimmers,0.0,161.0985714285714,Moderate
+INC1044,2023-02-14,Arabian Sea,Human Error,149.15,Crew,6.3,3.7,Dispersants,2.81,87.59603174603176,Moderate
+INC1045,2023-02-15,Gulf of Mexico,Natural Event,6.58,Crew,6.7,1.6,Skimmers,2.23,1.5713432835820895,Low
+INC1046,2023-02-16,Arabian Sea,Human Error,19.69,Satellite,4.1,3.1,Dispersants,3.15,14.887560975609759,Low
+INC1047,2023-02-17,South China Sea,Natural Event,181.11,Coast Guard,4.5,3.2,Bioremediation,0.0,128.78933333333333,Moderate
+INC1048,2023-02-18,Arabian Sea,Mechanical Failure,131.22,Coast Guard,6.0,5.4,Skimmers,3.67,118.09800000000001,Moderate
+INC1049,2023-02-19,Bay of Bengal,Human Error,332.63,Automated Sensor,3.9,7.7,Vacuum Trucks,0.79,656.7310256410257,Critical
+INC1050,2023-02-20,Bay of Bengal,Human Error,57.06,Coast Guard,4.0,5.3,Bioremediation,1.78,75.6045,Moderate
+INC1051,2023-02-21,Bay of Bengal,Mechanical Failure,39.63,Crew,5.6,1.5,Vacuum Trucks,3.4,10.615178571428574,Low
+INC1052,2023-02-22,Bay of Bengal,Human Error,88.04,Crew,6.5,9.6,Bioremediation,2.39,130.0283076923077,Moderate
+INC1053,2023-02-23,South China Sea,Human Error,56.15,Satellite,4.6,9.5,Dispersants,2.5,115.96195652173913,Moderate
+INC1054,2023-02-24,North Sea,Natural Event,169.85,Satellite,2.7,8.1,Skimmers,3.2,509.5499999999999,Critical
+INC1055,2023-02-25,Gulf of Mexico,Human Error,54.56,Coast Guard,3.5,9.9,Bioremediation,2.64,154.32685714285714,Moderate
+INC1056,2023-02-26,Bay of Bengal,Infrastructure,67.1,Automated Sensor,5.4,5.9,Dispersants,1.49,73.31296296296296,Moderate
+INC1057,2023-02-27,Arabian Sea,Mechanical Failure,34.78,Coast Guard,5.4,9.7,Skimmers,1.75,62.475185185185175,Moderate
+INC1058,2023-02-28,Bay of Bengal,Natural Event,142.37,Coast Guard,5.5,1.7,Skimmers,2.32,44.005272727272725,Low
+INC1059,2023-03-01,Arabian Sea,Natural Event,36.86,Coast Guard,6.0,4.3,Bioremediation,0.66,26.41633333333333,Low
+INC1060,2023-03-02,Arabian Sea,Infrastructure,112.97,Coast Guard,5.0,3.0,Skimmers,3.49,67.782,Moderate
+INC1061,2023-03-03,Bay of Bengal,Mechanical Failure,272.67,Crew,5.5,2.8,Bioremediation,2.43,138.8138181818182,Moderate
+INC1062,2023-03-04,South China Sea,Mechanical Failure,13.18,Automated Sensor,4.9,2.3,Skimmers,2.11,6.186530612244897,Low
+INC1063,2023-03-05,Arabian Sea,Natural Event,222.01,Crew,7.3,6.6,Vacuum Trucks,3.79,200.72136986301368,High
+INC1064,2023-03-06,Arabian Sea,Human Error,102.74,Automated Sensor,7.9,8.0,Dispersants,1.82,104.04050632911391,Moderate
+INC1065,2023-03-07,Bay of Bengal,Natural Event,29.75,Satellite,2.6,6.2,Vacuum Trucks,1.73,70.9423076923077,Moderate
+INC1066,2023-03-08,Arabian Sea,Mechanical Failure,90.6,Coast Guard,4.5,2.3,Bioremediation,1.27,46.30666666666666,Low
+INC1067,2023-03-09,Arabian Sea,Infrastructure,139.51,Crew,5.1,8.3,Vacuum Trucks,2.51,227.04568627450982,High
+INC1068,2023-03-10,Bay of Bengal,Natural Event,42.01,Automated Sensor,4.5,6.7,Bioremediation,2.46,62.54822222222222,Moderate
+INC1069,2023-03-11,Bay of Bengal,Mechanical Failure,117.62,Satellite,8.6,4.5,Skimmers,1.0,61.5453488372093,Moderate
+INC1070,2023-03-12,Gulf of Mexico,Natural Event,234.28,Satellite,5.4,7.1,Skimmers,1.73,308.03481481481475,High
+INC1071,2023-03-13,South China Sea,Human Error,54.5,Coast Guard,3.4,3.3,Bioremediation,1.01,52.89705882352941,Moderate
+INC1072,2023-03-14,South China Sea,Natural Event,34.39,Automated Sensor,6.2,4.1,Vacuum Trucks,0.94,22.741774193548384,Low
+INC1073,2023-03-15,Arabian Sea,Natural Event,75.47,Crew,5.5,9.3,Skimmers,0.0,127.61290909090911,Moderate
+INC1074,2023-03-16,South China Sea,Mechanical Failure,86.98,Coast Guard,5.6,3.6,Dispersants,1.65,55.915714285714294,Moderate
+INC1075,2023-03-17,Arabian Sea,Mechanical Failure,175.8,Crew,8.6,5.2,Skimmers,0.0,106.29767441860467,Moderate
+INC1076,2023-03-18,Gulf of Mexico,Mechanical Failure,73.54,Satellite,5.7,9.0,Dispersants,1.31,116.1157894736842,Moderate
+INC1077,2023-03-19,Bay of Bengal,Natural Event,58.7,Crew,4.4,7.4,Vacuum Trucks,1.08,98.72272727272728,Moderate
+INC1078,2023-03-20,Bay of Bengal,Human Error,33.59,Crew,1.1,1.6,Dispersants,3.58,48.85818181818182,Low
+INC1079,2023-03-21,Bay of Bengal,Infrastructure,15.65,Coast Guard,4.7,2.3,Dispersants,0.48,7.658510638297871,Low
+INC1080,2023-03-22,South China Sea,Infrastructure,24.72,Crew,7.6,1.1,Dispersants,0.86,3.5778947368421052,Low
+INC1081,2023-03-23,Gulf of Mexico,Mechanical Failure,24.57,Coast Guard,4.8,6.7,Dispersants,1.43,34.295625,Low
+INC1082,2023-03-24,South China Sea,Mechanical Failure,67.67,Satellite,0.5,5.0,Skimmers,1.13,676.7,Critical
+INC1083,2023-03-25,South China Sea,Natural Event,19.09,Coast Guard,4.0,2.2,Dispersants,4.05,10.499500000000001,Low
+INC1084,2023-03-26,Gulf of Mexico,Infrastructure,79.88,Coast Guard,7.0,9.6,Skimmers,0.29,109.54971428571427,Moderate
+INC1085,2023-03-27,Gulf of Mexico,Mechanical Failure,268.73,Automated Sensor,6.1,5.8,Dispersants,1.43,255.51377049180329,High
+INC1086,2023-03-28,Gulf of Mexico,Human Error,179.26,Crew,3.3,3.2,Bioremediation,2.5,173.82787878787877,Moderate
+INC1087,2023-03-29,Gulf of Mexico,Human Error,67.15,Satellite,3.9,5.5,Vacuum Trucks,3.32,94.69871794871796,Moderate
+INC1088,2023-03-30,Bay of Bengal,Mechanical Failure,384.26,Coast Guard,4.2,7.1,Dispersants,1.43,649.5823809523808,Critical
+INC1089,2023-03-31,North Sea,Mechanical Failure,87.21,Satellite,3.7,1.7,Bioremediation,0.0,40.06945945945945,Low
+INC1090,2023-04-01,North Sea,Infrastructure,96.78,Automated Sensor,0.9,3.5,Dispersants,1.77,376.3666666666667,High
+INC1091,2023-04-02,Gulf of Mexico,Infrastructure,74.36,Crew,6.5,8.3,Dispersants,4.03,94.95200000000001,Moderate
+INC1092,2023-04-03,North Sea,Natural Event,81.24,Coast Guard,7.5,5.1,Dispersants,2.42,55.243199999999995,Moderate
+INC1093,2023-04-04,North Sea,Infrastructure,52.95,Crew,2.0,5.9,Bioremediation,2.35,156.20250000000001,Moderate
+INC1094,2023-04-05,Gulf of Mexico,Human Error,67.93,Automated Sensor,7.5,4.9,Vacuum Trucks,0.41,44.380933333333346,Low
+INC1095,2023-04-06,North Sea,Human Error,223.0,Automated Sensor,4.8,1.4,Bioremediation,0.25,65.04166666666667,Moderate
+INC1096,2023-04-07,South China Sea,Mechanical Failure,192.42,Satellite,7.5,2.5,Vacuum Trucks,2.03,64.14,Moderate
+INC1097,2023-04-08,Arabian Sea,Infrastructure,8.36,Coast Guard,5.1,5.0,Dispersants,0.0,8.196078431372548,Low
+INC1098,2023-04-09,Arabian Sea,Natural Event,21.5,Satellite,5.3,2.9,Skimmers,3.17,11.764150943396228,Low
+INC1099,2023-04-10,Gulf of Mexico,Human Error,42.53,Automated Sensor,5.7,1.4,Dispersants,0.73,10.4459649122807,Low
+INC1100,2023-04-11,Bay of Bengal,Human Error,159.5,Crew,3.4,8.6,Vacuum Trucks,1.96,403.44117647058823,High
+INC1101,2023-04-12,Gulf of Mexico,Natural Event,195.31,Satellite,7.4,9.8,Bioremediation,0.0,258.6537837837838,High
+INC1102,2023-04-13,Bay of Bengal,Natural Event,139.14,Satellite,2.8,8.1,Dispersants,1.41,402.51214285714286,High
+INC1103,2023-04-14,Arabian Sea,Human Error,29.63,Crew,4.2,8.7,Bioremediation,0.22,61.376428571428555,Moderate
+INC1104,2023-04-15,Gulf of Mexico,Human Error,53.85,Satellite,6.0,3.2,Bioremediation,0.0,28.720000000000002,Low
+INC1105,2023-04-16,South China Sea,Natural Event,119.08,Crew,4.0,9.6,Bioremediation,2.81,285.792,High
+INC1106,2023-04-17,North Sea,Human Error,68.76,Coast Guard,6.6,2.8,Dispersants,4.46,29.170909090909092,Low
+INC1107,2023-04-18,Bay of Bengal,Mechanical Failure,61.4,Crew,7.8,9.6,Bioremediation,3.69,75.56923076923076,Moderate
+INC1108,2023-04-19,North Sea,Mechanical Failure,62.14,Coast Guard,7.0,10.0,Bioremediation,3.02,88.77142857142857,Moderate
+INC1109,2023-04-20,North Sea,Natural Event,182.8,Crew,1.1,7.4,Dispersants,1.38,1229.7454545454548,Critical
+INC1110,2023-04-21,Gulf of Mexico,Infrastructure,127.78,Automated Sensor,5.3,9.8,Bioremediation,3.21,236.2724528301887,High
+INC1111,2023-04-22,North Sea,Natural Event,64.91,Automated Sensor,7.1,6.1,Dispersants,3.84,55.767746478873235,Moderate
+INC1112,2023-04-23,South China Sea,Natural Event,106.21,Coast Guard,2.4,3.3,Vacuum Trucks,2.21,146.03875,Moderate
+INC1113,2023-04-24,North Sea,Infrastructure,25.85,Coast Guard,6.4,4.9,Vacuum Trucks,0.22,19.79140625,Low
+INC1114,2023-04-25,Gulf of Mexico,Infrastructure,53.94,Automated Sensor,6.3,6.3,Vacuum Trucks,1.25,53.940000000000005,Moderate
+INC1115,2023-04-26,South China Sea,Infrastructure,171.04,Coast Guard,2.6,1.7,Bioremediation,4.55,111.83384615384614,Moderate
+INC1116,2023-04-27,Arabian Sea,Mechanical Failure,17.83,Crew,6.7,6.6,Skimmers,1.89,17.563880597014922,Low
+INC1117,2023-04-28,North Sea,Human Error,128.89,Crew,5.5,9.8,Skimmers,0.0,229.65854545454548,High
+INC1118,2023-04-29,Gulf of Mexico,Mechanical Failure,8.24,Automated Sensor,6.3,2.7,Bioremediation,0.0,3.5314285714285716,Low
+INC1119,2023-04-30,Arabian Sea,Human Error,247.81,Satellite,3.1,8.1,Skimmers,1.36,647.5035483870968,Critical
+INC1120,2023-05-01,Arabian Sea,Mechanical Failure,52.88,Crew,5.3,9.2,Dispersants,3.55,91.79169811320754,Moderate
+INC1121,2023-05-02,Bay of Bengal,Human Error,111.84,Coast Guard,1.6,9.5,Skimmers,1.59,664.05,Critical
+INC1122,2023-05-03,South China Sea,Mechanical Failure,90.93,Satellite,0.5,9.6,Bioremediation,3.58,1745.856,Critical
+INC1123,2023-05-04,North Sea,Infrastructure,93.42,Satellite,5.3,5.7,Bioremediation,1.21,100.47056603773586,Moderate
+INC1124,2023-05-05,Gulf of Mexico,Natural Event,104.82,Crew,7.2,9.8,Dispersants,0.0,142.67166666666668,Moderate
+INC1125,2023-05-06,Bay of Bengal,Mechanical Failure,14.51,Crew,5.5,7.8,Vacuum Trucks,1.26,20.57781818181818,Low
+INC1126,2023-05-07,South China Sea,Human Error,94.86,Satellite,4.9,2.5,Bioremediation,2.52,48.397959183673464,Low
+INC1127,2023-05-08,Bay of Bengal,Infrastructure,72.01,Satellite,4.6,5.3,Dispersants,2.39,82.96804347826088,Moderate
+INC1128,2023-05-09,South China Sea,Mechanical Failure,53.12,Automated Sensor,3.1,7.5,Skimmers,0.12,128.51612903225805,Moderate
+INC1129,2023-05-10,South China Sea,Mechanical Failure,42.51,Coast Guard,4.6,3.2,Skimmers,1.47,29.572173913043482,Low
+INC1130,2023-05-11,North Sea,Infrastructure,96.63,Automated Sensor,5.8,6.8,Dispersants,6.03,113.2903448275862,Moderate
+INC1131,2023-05-12,South China Sea,Mechanical Failure,34.79,Crew,4.1,7.0,Dispersants,0.15,59.397560975609764,Moderate
+INC1132,2023-05-13,Bay of Bengal,Natural Event,168.98,Automated Sensor,6.5,2.5,Bioremediation,2.99,64.99230769230769,Moderate
+INC1133,2023-05-14,South China Sea,Mechanical Failure,117.71,Automated Sensor,5.4,6.1,Skimmers,0.0,132.96870370370368,Moderate
+INC1134,2023-05-15,North Sea,Natural Event,100.98,Automated Sensor,5.6,7.9,Dispersants,3.3,142.4539285714286,Moderate
+INC1135,2023-05-16,North Sea,Natural Event,164.22,Automated Sensor,6.8,5.5,Skimmers,0.66,132.82500000000002,Moderate
+INC1136,2023-05-17,Bay of Bengal,Infrastructure,12.04,Coast Guard,3.9,1.1,Dispersants,2.6,3.395897435897436,Low
+INC1137,2023-05-18,Arabian Sea,Mechanical Failure,25.02,Coast Guard,6.3,1.1,Skimmers,0.06,4.368571428571429,Low
+INC1138,2023-05-19,Arabian Sea,Infrastructure,121.41,Satellite,4.2,4.2,Vacuum Trucks,2.44,121.41,Moderate
+INC1139,2023-05-20,South China Sea,Mechanical Failure,44.72,Crew,5.7,9.3,Bioremediation,0.64,72.9642105263158,Moderate
+INC1140,2023-05-21,Gulf of Mexico,Mechanical Failure,49.76,Automated Sensor,3.7,3.1,Skimmers,0.93,41.69081081081081,Low
+INC1141,2023-05-22,South China Sea,Human Error,21.52,Satellite,3.2,6.7,Vacuum Trucks,2.66,45.0575,Low
+INC1142,2023-05-23,Bay of Bengal,Mechanical Failure,34.88,Satellite,5.2,3.0,Skimmers,1.35,20.123076923076926,Low
+INC1143,2023-05-24,Bay of Bengal,Infrastructure,171.53,Satellite,1.2,3.9,Skimmers,2.57,557.4725,Critical
+INC1144,2023-05-25,Bay of Bengal,Natural Event,119.41,Coast Guard,4.4,8.6,Vacuum Trucks,1.71,233.39227272727268,High
+INC1145,2023-05-26,Bay of Bengal,Mechanical Failure,95.84,Automated Sensor,1.8,7.6,Skimmers,2.1,404.65777777777777,High
+INC1146,2023-05-27,Bay of Bengal,Human Error,51.43,Automated Sensor,6.6,1.9,Skimmers,2.67,14.805606060606062,Low
+INC1147,2023-05-28,North Sea,Infrastructure,91.46,Crew,7.1,4.9,Bioremediation,1.47,63.12028169014085,Moderate
+INC1148,2023-05-29,Arabian Sea,Mechanical Failure,181.71,Automated Sensor,3.3,1.3,Vacuum Trucks,0.51,71.58272727272728,Moderate
+INC1149,2023-05-30,Bay of Bengal,Infrastructure,45.69,Automated Sensor,5.9,5.3,Vacuum Trucks,1.2,41.04355932203389,Low
+INC1150,2023-05-31,Gulf of Mexico,Human Error,81.1,Satellite,6.8,7.0,Dispersants,3.79,83.48529411764706,Moderate
+INC1151,2023-06-01,Gulf of Mexico,Human Error,257.87,Crew,6.8,2.1,Skimmers,2.17,79.63632352941177,Moderate
+INC1152,2023-06-02,Gulf of Mexico,Infrastructure,137.88,Automated Sensor,5.4,3.6,Bioremediation,0.73,91.91999999999999,Moderate
+INC1153,2023-06-03,Gulf of Mexico,Mechanical Failure,52.04,Coast Guard,6.5,4.6,Skimmers,2.6,36.82830769230769,Low
+INC1154,2023-06-04,North Sea,Natural Event,130.26,Automated Sensor,3.7,9.3,Skimmers,2.7,327.4102702702703,High
+INC1155,2023-06-05,Gulf of Mexico,Human Error,17.52,Satellite,5.2,9.9,Dispersants,2.78,33.355384615384615,Low
+INC1156,2023-06-06,Bay of Bengal,Mechanical Failure,78.62,Coast Guard,4.1,1.4,Skimmers,0.53,26.845853658536587,Low
+INC1157,2023-06-07,South China Sea,Mechanical Failure,130.16,Satellite,3.5,7.8,Bioremediation,0.98,290.0708571428571,High
+INC1158,2023-06-08,Gulf of Mexico,Natural Event,110.36,Automated Sensor,5.1,4.3,Bioremediation,0.98,93.0486274509804,Moderate
+INC1159,2023-06-09,North Sea,Human Error,129.29,Coast Guard,5.7,4.5,Dispersants,1.46,102.07105263157894,Moderate
+INC1160,2023-06-10,North Sea,Human Error,149.59,Crew,7.3,7.8,Skimmers,2.81,159.83589041095888,Moderate
+INC1161,2023-06-11,Gulf of Mexico,Mechanical Failure,116.63,Crew,5.5,9.3,Bioremediation,2.44,197.2107272727273,Moderate
+INC1162,2023-06-12,South China Sea,Mechanical Failure,114.26,Coast Guard,6.3,9.6,Skimmers,2.56,174.1104761904762,Moderate
+INC1163,2023-06-13,Gulf of Mexico,Natural Event,97.47,Coast Guard,6.3,6.2,Skimmers,4.03,95.92285714285714,Moderate
+INC1164,2023-06-14,North Sea,Natural Event,31.22,Satellite,10.4,4.2,Skimmers,3.03,12.608076923076922,Low
+INC1165,2023-06-15,Arabian Sea,Human Error,171.48,Coast Guard,1.4,8.1,Dispersants,1.79,992.1342857142856,Critical
+INC1166,2023-06-16,Bay of Bengal,Infrastructure,80.81,Satellite,3.6,3.3,Skimmers,0.22,74.07583333333334,Moderate
+INC1167,2023-06-17,North Sea,Human Error,135.52,Automated Sensor,7.9,6.1,Bioremediation,0.93,104.6420253164557,Moderate
+INC1168,2023-06-18,Gulf of Mexico,Mechanical Failure,159.76,Satellite,4.3,4.2,Skimmers,1.61,156.0446511627907,Moderate
+INC1169,2023-06-19,Bay of Bengal,Human Error,54.26,Coast Guard,6.8,6.9,Bioremediation,3.24,55.05794117647059,Moderate
+INC1170,2023-06-20,Gulf of Mexico,Infrastructure,58.32,Coast Guard,5.5,3.2,Skimmers,1.96,33.931636363636365,Low
+INC1171,2023-06-21,Gulf of Mexico,Natural Event,64.93,Automated Sensor,9.2,2.7,Bioremediation,1.02,19.055543478260876,Low
+INC1172,2023-06-22,Arabian Sea,Infrastructure,193.51,Coast Guard,2.8,9.3,Bioremediation,0.9,642.729642857143,Critical
+INC1173,2023-06-23,Bay of Bengal,Infrastructure,37.9,Coast Guard,7.4,1.9,Skimmers,1.9,9.73108108108108,Low
+INC1174,2023-06-24,Bay of Bengal,Infrastructure,215.98,Crew,8.5,5.6,Skimmers,3.33,142.29270588235292,Moderate
+INC1175,2023-06-25,Arabian Sea,Natural Event,96.68,Crew,3.0,3.0,Bioremediation,4.39,96.68,Moderate
+INC1176,2023-06-26,North Sea,Infrastructure,101.79,Automated Sensor,6.6,1.4,Vacuum Trucks,1.69,21.591818181818184,Low
+INC1177,2023-06-27,Gulf of Mexico,Infrastructure,154.96,Satellite,3.1,1.3,Dispersants,1.93,64.98322580645161,Moderate
+INC1178,2023-06-28,South China Sea,Infrastructure,88.76,Crew,5.1,2.6,Vacuum Trucks,0.18,45.25019607843138,Low
+INC1179,2023-06-29,Gulf of Mexico,Mechanical Failure,172.77,Satellite,4.5,8.8,Vacuum Trucks,4.91,337.8613333333334,High
+INC1180,2023-06-30,Gulf of Mexico,Infrastructure,54.2,Coast Guard,0.5,3.5,Skimmers,0.0,379.40000000000003,High
+INC1181,2023-07-01,North Sea,Natural Event,211.43,Crew,5.8,9.6,Dispersants,3.76,349.9531034482759,High
+INC1182,2023-07-02,Gulf of Mexico,Infrastructure,57.76,Automated Sensor,5.3,6.2,Vacuum Trucks,1.45,67.56830188679245,Moderate
+INC1183,2023-07-03,Arabian Sea,Infrastructure,216.76,Automated Sensor,8.0,4.9,Skimmers,1.1,132.7655,Moderate
+INC1184,2023-07-04,Arabian Sea,Natural Event,59.05,Automated Sensor,6.2,6.2,Vacuum Trucks,0.33,59.05,Moderate
+INC1185,2023-07-05,Bay of Bengal,Infrastructure,66.44,Crew,9.6,5.7,Vacuum Trucks,5.62,39.448750000000004,Low
+INC1186,2023-07-06,South China Sea,Natural Event,33.87,Satellite,5.2,7.8,Skimmers,2.33,50.80499999999999,Moderate
+INC1187,2023-07-07,Gulf of Mexico,Infrastructure,42.95,Coast Guard,4.8,3.5,Skimmers,2.03,31.31770833333334,Low
+INC1188,2023-07-08,Gulf of Mexico,Natural Event,81.11,Satellite,4.6,4.2,Skimmers,3.33,74.05695652173914,Moderate
+INC1189,2023-07-09,North Sea,Infrastructure,99.38,Satellite,4.1,9.0,Dispersants,1.02,218.15121951219513,High
+INC1190,2023-07-10,Arabian Sea,Infrastructure,164.39,Coast Guard,0.6,9.5,Vacuum Trucks,2.0,2602.8416666666667,Critical
+INC1191,2023-07-11,South China Sea,Mechanical Failure,70.27,Coast Guard,4.6,9.0,Skimmers,2.08,137.48478260869564,Moderate
+INC1192,2023-07-12,Bay of Bengal,Mechanical Failure,110.54,Crew,0.9,4.8,Bioremediation,1.23,589.5466666666666,Critical
+INC1193,2023-07-13,Arabian Sea,Infrastructure,94.55,Crew,5.9,8.0,Vacuum Trucks,3.8,128.20338983050846,Moderate
+INC1194,2023-07-14,Bay of Bengal,Infrastructure,119.33,Crew,2.5,5.3,Bioremediation,1.67,252.97959999999998,High
+INC1195,2023-07-15,North Sea,Human Error,48.57,Crew,3.2,5.5,Dispersants,0.0,83.4796875,Moderate
+INC1196,2023-07-16,North Sea,Natural Event,53.54,Crew,3.7,2.8,Skimmers,1.55,40.51675675675675,Low
+INC1197,2023-07-17,Gulf of Mexico,Human Error,48.59,Coast Guard,4.6,6.3,Bioremediation,2.37,66.5471739130435,Moderate
+INC1198,2023-07-18,South China Sea,Mechanical Failure,186.06,Satellite,5.0,2.7,Dispersants,0.66,100.47240000000001,Moderate
+INC1199,2023-07-19,Bay of Bengal,Mechanical Failure,212.77,Crew,7.2,4.0,Skimmers,0.78,118.20555555555556,Moderate
+INC1200,2023-07-20,Arabian Sea,Mechanical Failure,51.65,Crew,3.8,8.7,Bioremediation,1.18,118.25131578947368,Moderate
+INC1201,2023-07-21,North Sea,Mechanical Failure,52.53,Satellite,6.0,2.9,Bioremediation,3.83,25.389499999999998,Low
+INC1202,2023-07-22,Gulf of Mexico,Infrastructure,131.23,Crew,10.5,1.6,Dispersants,1.27,19.99695238095238,Low
+INC1203,2023-07-23,Gulf of Mexico,Mechanical Failure,228.45,Satellite,5.8,1.6,Skimmers,4.14,63.02068965517241,Moderate
+INC1204,2023-07-24,Bay of Bengal,Infrastructure,261.32,Satellite,4.6,9.5,Skimmers,1.08,539.6826086956522,Critical
+INC1205,2023-07-25,North Sea,Infrastructure,49.71,Coast Guard,3.4,5.6,Bioremediation,2.49,81.87529411764706,Moderate
+INC1206,2023-07-26,South China Sea,Mechanical Failure,60.73,Automated Sensor,4.6,4.7,Bioremediation,1.33,62.05021739130435,Moderate
+INC1207,2023-07-27,North Sea,Mechanical Failure,103.18,Coast Guard,3.2,8.3,Bioremediation,3.13,267.623125,High
+INC1208,2023-07-28,Bay of Bengal,Natural Event,106.84,Automated Sensor,5.5,8.5,Skimmers,0.32,165.11636363636364,Moderate
+INC1209,2023-07-29,Bay of Bengal,Human Error,72.43,Automated Sensor,5.2,4.0,Dispersants,3.11,55.71538461538462,Moderate
+INC1210,2023-07-30,North Sea,Mechanical Failure,41.7,Automated Sensor,0.7,7.2,Dispersants,2.17,428.91428571428577,High
+INC1211,2023-07-31,Bay of Bengal,Natural Event,81.21,Crew,5.0,7.9,Skimmers,1.04,128.3118,Moderate
+INC1212,2023-08-01,North Sea,Natural Event,261.14,Coast Guard,7.2,6.9,Vacuum Trucks,1.75,250.25916666666666,High
+INC1213,2023-08-02,Arabian Sea,Human Error,54.19,Automated Sensor,4.2,2.4,Dispersants,4.3,30.96571428571428,Low
+INC1214,2023-08-03,North Sea,Infrastructure,98.63,Satellite,3.7,8.9,Bioremediation,2.21,237.24513513513511,High
+INC1215,2023-08-04,North Sea,Mechanical Failure,376.01,Crew,2.2,5.9,Vacuum Trucks,0.95,1008.3904545454546,Critical
+INC1216,2023-08-05,Bay of Bengal,Human Error,53.55,Coast Guard,1.3,3.5,Vacuum Trucks,0.19,144.1730769230769,Moderate
+INC1217,2023-08-06,Bay of Bengal,Mechanical Failure,135.55,Automated Sensor,6.7,4.8,Dispersants,2.76,97.11044776119402,Moderate
+INC1218,2023-08-07,Gulf of Mexico,Natural Event,268.41,Satellite,4.6,1.3,Vacuum Trucks,2.29,75.85500000000002,Moderate
+INC1219,2023-08-08,Gulf of Mexico,Natural Event,127.57,Coast Guard,6.5,2.2,Vacuum Trucks,3.04,43.17753846153846,Low
+INC1220,2023-08-09,Arabian Sea,Infrastructure,177.34,Coast Guard,8.1,7.9,Dispersants,0.0,172.96123456790124,Moderate
+INC1221,2023-08-10,Gulf of Mexico,Natural Event,148.31,Crew,6.8,1.0,Dispersants,0.24,21.81029411764706,Low
+INC1222,2023-08-11,North Sea,Natural Event,120.55,Coast Guard,3.9,4.7,Vacuum Trucks,3.72,145.27820512820514,Moderate
+INC1223,2023-08-12,Bay of Bengal,Human Error,208.18,Crew,5.3,5.7,Bioremediation,2.5,223.89169811320755,High
+INC1224,2023-08-13,Gulf of Mexico,Mechanical Failure,132.61,Automated Sensor,3.8,1.5,Skimmers,2.8,52.34605263157896,Moderate
+INC1225,2023-08-14,Gulf of Mexico,Mechanical Failure,73.0,Crew,3.6,9.8,Vacuum Trucks,0.56,198.72222222222223,Moderate
+INC1226,2023-08-15,Arabian Sea,Human Error,93.17,Satellite,5.7,3.0,Vacuum Trucks,0.53,49.036842105263155,Low
+INC1227,2023-08-16,Arabian Sea,Infrastructure,109.47,Crew,3.3,3.7,Bioremediation,3.49,122.7390909090909,Moderate
+INC1228,2023-08-17,North Sea,Mechanical Failure,60.43,Satellite,0.6,3.7,Vacuum Trucks,3.56,372.6516666666667,High
+INC1229,2023-08-18,Bay of Bengal,Natural Event,96.29,Crew,3.2,3.1,Vacuum Trucks,0.37,93.28093750000001,Moderate
+INC1230,2023-08-19,Arabian Sea,Mechanical Failure,86.37,Coast Guard,4.4,1.0,Skimmers,0.08,19.629545454545454,Low
+INC1231,2023-08-20,Gulf of Mexico,Natural Event,132.33,Automated Sensor,8.0,7.6,Skimmers,1.84,125.71350000000001,Moderate
+INC1232,2023-08-21,Bay of Bengal,Infrastructure,315.49,Satellite,4.0,9.7,Skimmers,0.8,765.0632499999999,Critical
+INC1233,2023-08-22,Bay of Bengal,Human Error,100.49,Crew,6.0,3.0,Dispersants,0.77,50.245,Moderate
+INC1234,2023-08-23,Gulf of Mexico,Mechanical Failure,232.26,Crew,4.7,7.0,Dispersants,0.12,345.9191489361702,High
+INC1235,2023-08-24,Arabian Sea,Human Error,129.05,Crew,7.5,7.7,Skimmers,1.3,132.49133333333333,Moderate
+INC1236,2023-08-25,Gulf of Mexico,Mechanical Failure,95.97,Coast Guard,7.3,8.6,Skimmers,0.27,113.06054794520549,Moderate
+INC1237,2023-08-26,Bay of Bengal,Natural Event,57.71,Coast Guard,7.4,4.8,Dispersants,0.36,37.43351351351351,Low
+INC1238,2023-08-27,South China Sea,Human Error,96.5,Satellite,1.5,3.7,Bioremediation,2.45,238.03333333333333,High
+INC1239,2023-08-28,South China Sea,Mechanical Failure,92.21,Satellite,5.4,3.9,Vacuum Trucks,1.92,66.5961111111111,Moderate
+INC1240,2023-08-29,North Sea,Natural Event,45.82,Coast Guard,6.5,7.4,Vacuum Trucks,2.73,52.1643076923077,Moderate
+INC1241,2023-08-30,Gulf of Mexico,Human Error,52.21,Satellite,5.8,8.4,Skimmers,0.0,75.6144827586207,Moderate
+INC1242,2023-08-31,Gulf of Mexico,Human Error,110.13,Automated Sensor,6.3,2.6,Bioremediation,2.01,45.450476190476195,Low
+INC1243,2023-09-01,North Sea,Mechanical Failure,230.74,Automated Sensor,5.1,4.3,Dispersants,5.11,194.54549019607845,Moderate
+INC1244,2023-09-02,North Sea,Mechanical Failure,79.16,Coast Guard,3.5,9.1,Skimmers,1.44,205.816,High
+INC1245,2023-09-03,North Sea,Mechanical Failure,20.46,Satellite,1.6,8.3,Bioremediation,3.24,106.13625,Moderate
+INC1246,2023-09-04,Bay of Bengal,Natural Event,33.27,Crew,3.7,9.9,Bioremediation,3.22,89.01972972972973,Moderate
+INC1247,2023-09-05,Gulf of Mexico,Mechanical Failure,137.93,Automated Sensor,10.4,7.8,Bioremediation,3.3,103.4475,Moderate
+INC1248,2023-09-06,Bay of Bengal,Human Error,25.0,Coast Guard,4.0,4.5,Dispersants,2.25,28.125,Low
+INC1249,2023-09-07,North Sea,Human Error,153.29,Satellite,1.1,6.3,Dispersants,2.85,877.9336363636363,Critical
+INC1250,2023-09-08,Gulf of Mexico,Mechanical Failure,132.74,Coast Guard,6.5,6.9,Vacuum Trucks,3.05,140.9086153846154,Moderate
+INC1251,2023-09-09,Bay of Bengal,Mechanical Failure,77.09,Crew,6.7,1.7,Vacuum Trucks,2.95,19.560149253731343,Low
+INC1252,2023-09-10,Bay of Bengal,Infrastructure,46.17,Automated Sensor,7.6,5.9,Bioremediation,0.32,35.8425,Low
+INC1253,2023-09-11,North Sea,Human Error,68.71,Coast Guard,5.9,7.4,Bioremediation,0.0,86.1786440677966,Moderate
+INC1254,2023-09-12,Gulf of Mexico,Natural Event,108.19,Coast Guard,6.7,2.5,Dispersants,0.0,40.36940298507463,Low
+INC1255,2023-09-13,North Sea,Infrastructure,25.84,Coast Guard,8.7,8.0,Vacuum Trucks,1.59,23.760919540229885,Low
+INC1256,2023-09-14,Gulf of Mexico,Mechanical Failure,215.59,Crew,3.5,6.3,Bioremediation,2.89,388.06199999999995,High
+INC1257,2023-09-15,South China Sea,Mechanical Failure,107.47,Coast Guard,3.1,9.6,Vacuum Trucks,0.34,332.81032258064516,High
+INC1258,2023-09-16,Arabian Sea,Human Error,116.43,Crew,2.8,1.4,Vacuum Trucks,3.39,58.21500000000001,Moderate
+INC1259,2023-09-17,Arabian Sea,Mechanical Failure,132.09,Crew,4.5,3.4,Bioremediation,1.25,99.80133333333333,Moderate
+INC1260,2023-09-18,Arabian Sea,Natural Event,201.94,Crew,7.9,6.4,Dispersants,1.26,163.59696202531646,Moderate
+INC1261,2023-09-19,North Sea,Human Error,96.67,Automated Sensor,6.1,3.7,Bioremediation,0.75,58.63590163934427,Moderate
+INC1262,2023-09-20,South China Sea,Mechanical Failure,137.99,Automated Sensor,6.0,7.4,Bioremediation,0.0,170.18766666666667,Moderate
+INC1263,2023-09-21,Gulf of Mexico,Human Error,46.85,Coast Guard,1.4,7.8,Vacuum Trucks,2.34,261.0214285714286,High
+INC1264,2023-09-22,Bay of Bengal,Mechanical Failure,262.02,Coast Guard,3.6,1.9,Bioremediation,4.57,138.28833333333333,Moderate
+INC1265,2023-09-23,Gulf of Mexico,Mechanical Failure,91.88,Automated Sensor,1.3,5.6,Dispersants,1.91,395.7907692307692,High
+INC1266,2023-09-24,Bay of Bengal,Mechanical Failure,46.65,Satellite,7.3,5.6,Bioremediation,0.0,35.78630136986301,Low
+INC1267,2023-09-25,Gulf of Mexico,Natural Event,57.72,Automated Sensor,8.2,4.3,Dispersants,3.17,30.267804878048782,Low
+INC1268,2023-09-26,South China Sea,Natural Event,11.19,Crew,6.6,9.4,Dispersants,0.0,15.937272727272727,Low
+INC1269,2023-09-27,Bay of Bengal,Human Error,57.41,Automated Sensor,3.0,8.4,Vacuum Trucks,0.19,160.748,Moderate
+INC1270,2023-09-28,North Sea,Mechanical Failure,4.36,Crew,8.0,7.3,Skimmers,1.64,3.9785000000000004,Low
+INC1271,2023-09-29,Gulf of Mexico,Mechanical Failure,145.04,Coast Guard,4.5,7.4,Skimmers,2.18,238.51022222222224,High
+INC1272,2023-09-30,Gulf of Mexico,Natural Event,113.92,Satellite,2.6,5.2,Vacuum Trucks,0.49,227.84,High
+INC1273,2023-10-01,Bay of Bengal,Mechanical Failure,35.2,Coast Guard,3.1,9.3,Bioremediation,1.58,105.60000000000002,Moderate
+INC1274,2023-10-02,North Sea,Natural Event,80.29,Crew,4.1,7.3,Vacuum Trucks,3.07,142.95536585365858,Moderate
+INC1275,2023-10-03,North Sea,Mechanical Failure,83.1,Crew,5.1,7.6,Dispersants,3.28,123.83529411764705,Moderate
+INC1276,2023-10-04,South China Sea,Human Error,28.7,Crew,4.7,8.8,Skimmers,3.88,53.736170212765956,Moderate
+INC1277,2023-10-05,North Sea,Mechanical Failure,69.87,Satellite,2.2,3.5,Vacuum Trucks,4.86,111.15681818181818,Moderate
+INC1278,2023-10-06,North Sea,Mechanical Failure,85.08,Automated Sensor,7.4,8.3,Bioremediation,3.21,95.42756756756758,Moderate
+INC1279,2023-10-07,North Sea,Infrastructure,68.37,Coast Guard,4.7,2.8,Vacuum Trucks,1.67,40.73106382978723,Low
+INC1280,2023-10-08,Arabian Sea,Natural Event,46.61,Coast Guard,3.6,4.1,Skimmers,3.29,53.083611111111104,Moderate
+INC1281,2023-10-09,South China Sea,Mechanical Failure,33.96,Automated Sensor,7.2,4.0,Vacuum Trucks,2.7,18.866666666666667,Low
+INC1282,2023-10-10,Gulf of Mexico,Mechanical Failure,66.47,Coast Guard,2.6,9.8,Vacuum Trucks,2.76,250.54076923076926,High
+INC1283,2023-10-11,Bay of Bengal,Infrastructure,51.63,Satellite,1.7,8.7,Skimmers,2.27,264.22411764705885,High
+INC1284,2023-10-12,Gulf of Mexico,Infrastructure,126.03,Coast Guard,7.5,7.3,Dispersants,0.63,122.6692,Moderate
+INC1285,2023-10-13,South China Sea,Natural Event,210.23,Crew,8.8,7.5,Dispersants,0.46,179.17329545454544,Moderate
+INC1286,2023-10-14,Bay of Bengal,Infrastructure,158.4,Automated Sensor,4.1,6.1,Skimmers,1.85,235.66829268292685,High
+INC1287,2023-10-15,South China Sea,Human Error,87.24,Satellite,4.9,9.5,Vacuum Trucks,2.22,169.13877551020406,Moderate
+INC1288,2023-10-16,North Sea,Infrastructure,48.16,Automated Sensor,2.7,5.5,Skimmers,0.98,98.1037037037037,Moderate
+INC1289,2023-10-17,Bay of Bengal,Human Error,155.5,Satellite,5.0,4.4,Dispersants,2.64,136.84,Moderate
+INC1290,2023-10-18,North Sea,Natural Event,131.43,Crew,4.0,2.5,Bioremediation,5.12,82.14375000000001,Moderate
+INC1291,2023-10-19,Gulf of Mexico,Natural Event,200.58,Automated Sensor,4.8,8.1,Vacuum Trucks,0.0,338.47875000000005,High
+INC1292,2023-10-20,Gulf of Mexico,Natural Event,96.75,Coast Guard,5.8,7.6,Dispersants,2.87,126.77586206896551,Moderate
+INC1293,2023-10-21,Bay of Bengal,Natural Event,253.12,Satellite,2.8,4.5,Vacuum Trucks,1.9,406.8,High
+INC1294,2023-10-22,Bay of Bengal,Natural Event,96.77,Automated Sensor,4.3,1.2,Skimmers,2.68,27.005581395348838,Low
+INC1295,2023-10-23,South China Sea,Human Error,47.96,Coast Guard,1.4,8.6,Bioremediation,1.35,294.6114285714286,High
+INC1296,2023-10-24,South China Sea,Human Error,55.84,Automated Sensor,4.3,1.1,Skimmers,1.78,14.2846511627907,Low
+INC1297,2023-10-25,North Sea,Natural Event,121.84,Automated Sensor,4.8,7.3,Bioremediation,2.19,185.29833333333335,Moderate
+INC1298,2023-10-26,Bay of Bengal,Infrastructure,51.52,Automated Sensor,5.5,9.7,Vacuum Trucks,1.55,90.86254545454545,Moderate
+INC1299,2023-10-27,Gulf of Mexico,Mechanical Failure,251.98,Satellite,5.5,4.9,Vacuum Trucks,0.0,224.49127272727273,High
+INC1300,2023-10-28,South China Sea,Natural Event,114.79,Coast Guard,6.8,3.1,Skimmers,1.65,52.33073529411765,Moderate
+INC1301,2023-10-29,South China Sea,Infrastructure,85.81,Crew,1.9,7.3,Bioremediation,0.0,329.69105263157894,High
+INC1302,2023-10-30,Gulf of Mexico,Mechanical Failure,91.32,Satellite,2.0,8.4,Bioremediation,2.98,383.544,High
+INC1303,2023-10-31,South China Sea,Natural Event,67.8,Satellite,6.1,5.9,Vacuum Trucks,0.0,65.57704918032788,Moderate
+INC1304,2023-11-01,North Sea,Natural Event,15.37,Satellite,0.9,9.7,Skimmers,3.54,165.6544444444444,Moderate
+INC1305,2023-11-02,Bay of Bengal,Human Error,55.87,Crew,5.4,1.5,Bioremediation,2.64,15.519444444444442,Low
+INC1306,2023-11-03,Gulf of Mexico,Mechanical Failure,231.82,Coast Guard,2.6,5.5,Vacuum Trucks,2.65,490.3884615384615,High
+INC1307,2023-11-04,Bay of Bengal,Mechanical Failure,98.68,Coast Guard,8.1,7.5,Dispersants,0.0,91.37037037037038,Moderate
+INC1308,2023-11-05,South China Sea,Infrastructure,170.84,Coast Guard,5.5,8.8,Skimmers,1.51,273.344,High
+INC1309,2023-11-06,South China Sea,Human Error,174.15,Automated Sensor,4.6,2.6,Dispersants,3.73,98.43260869565219,Moderate
+INC1310,2023-11-07,Gulf of Mexico,Human Error,80.87,Automated Sensor,7.5,8.2,Skimmers,1.22,88.41786666666667,Moderate
+INC1311,2023-11-08,North Sea,Human Error,132.93,Automated Sensor,2.9,6.0,Vacuum Trucks,0.38,275.02758620689656,High
+INC1312,2023-11-09,Arabian Sea,Human Error,17.38,Crew,3.3,4.6,Bioremediation,1.04,24.226666666666667,Low
+INC1313,2023-11-10,Gulf of Mexico,Mechanical Failure,219.6,Automated Sensor,2.5,2.2,Bioremediation,1.9,193.248,Moderate
+INC1314,2023-11-11,Arabian Sea,Mechanical Failure,207.93,Crew,3.3,8.8,Bioremediation,0.72,554.48,Critical
+INC1315,2023-11-12,Arabian Sea,Natural Event,119.46,Coast Guard,5.1,2.4,Skimmers,3.85,56.21647058823529,Moderate
+INC1316,2023-11-13,North Sea,Natural Event,101.32,Automated Sensor,6.0,3.8,Vacuum Trucks,1.9,64.16933333333333,Moderate
+INC1317,2023-11-14,Arabian Sea,Human Error,81.69,Automated Sensor,6.9,3.6,Dispersants,1.17,42.62086956521739,Low
+INC1318,2023-11-15,Arabian Sea,Human Error,184.27,Satellite,1.4,8.8,Vacuum Trucks,0.05,1158.2685714285717,Critical
+INC1319,2023-11-16,North Sea,Human Error,143.73,Crew,4.7,7.1,Dispersants,2.73,217.12404255319146,High
+INC1320,2023-11-17,Arabian Sea,Natural Event,62.06,Coast Guard,2.8,8.2,Skimmers,2.69,181.74714285714288,Moderate
+INC1321,2023-11-18,Arabian Sea,Infrastructure,29.94,Satellite,4.6,3.3,Skimmers,0.81,21.47869565217391,Low
+INC1322,2023-11-19,Arabian Sea,Infrastructure,24.59,Satellite,9.7,6.6,Dispersants,0.0,16.731340206185568,Low
+INC1323,2023-11-20,Gulf of Mexico,Natural Event,182.97,Coast Guard,5.6,6.1,Dispersants,2.62,199.30660714285716,Moderate
+INC1324,2023-11-21,Gulf of Mexico,Natural Event,80.34,Satellite,6.8,8.5,Dispersants,1.72,100.425,Moderate
+INC1325,2023-11-22,Gulf of Mexico,Natural Event,118.07,Crew,8.9,9.2,Vacuum Trucks,2.5,122.04988764044943,Moderate
+INC1326,2023-11-23,North Sea,Natural Event,88.39,Crew,7.3,1.1,Dispersants,4.94,13.319041095890412,Low
+INC1327,2023-11-24,South China Sea,Natural Event,24.92,Automated Sensor,4.1,7.1,Skimmers,1.96,43.154146341463424,Low
+INC1328,2023-11-25,Arabian Sea,Natural Event,17.83,Satellite,2.4,1.5,Skimmers,1.23,11.143749999999999,Low
+INC1329,2023-11-26,Arabian Sea,Human Error,58.64,Automated Sensor,4.9,5.9,Bioremediation,0.28,70.6073469387755,Moderate
+INC1330,2023-11-27,North Sea,Human Error,62.79,Satellite,3.9,3.6,Dispersants,1.53,57.96,Moderate
+INC1331,2023-11-28,Arabian Sea,Human Error,62.76,Crew,2.0,3.8,Vacuum Trucks,2.24,119.24399999999999,Moderate
+INC1332,2023-11-29,Gulf of Mexico,Human Error,64.25,Crew,5.5,4.2,Vacuum Trucks,2.08,49.06363636363637,Low
+INC1333,2023-11-30,South China Sea,Natural Event,302.12,Crew,5.5,6.6,Vacuum Trucks,4.59,362.544,High
+INC1334,2023-12-01,Bay of Bengal,Infrastructure,169.1,Satellite,8.5,4.0,Bioremediation,2.75,79.5764705882353,Moderate
+INC1335,2023-12-02,Arabian Sea,Mechanical Failure,99.72,Crew,4.3,7.6,Skimmers,1.8,176.2493023255814,Moderate
+INC1336,2023-12-03,Gulf of Mexico,Natural Event,78.8,Satellite,5.6,4.6,Vacuum Trucks,0.94,64.72857142857143,Moderate
+INC1337,2023-12-04,Bay of Bengal,Mechanical Failure,80.95,Automated Sensor,3.7,1.6,Skimmers,2.4,35.005405405405405,Low
+INC1338,2023-12-05,South China Sea,Infrastructure,140.14,Satellite,6.7,8.1,Bioremediation,0.64,169.42298507462684,Moderate
+INC1339,2023-12-06,Bay of Bengal,Human Error,78.23,Automated Sensor,4.8,3.6,Dispersants,2.27,58.672500000000014,Moderate
+INC1340,2023-12-07,Gulf of Mexico,Infrastructure,157.58,Satellite,2.7,4.9,Dispersants,2.73,285.97851851851857,High
+INC1341,2023-12-08,Bay of Bengal,Natural Event,107.76,Automated Sensor,5.0,7.2,Dispersants,1.68,155.17440000000002,Moderate
+INC1342,2023-12-09,North Sea,Human Error,303.89,Crew,5.8,4.0,Vacuum Trucks,1.05,209.57931034482758,High
+INC1343,2023-12-10,Bay of Bengal,Natural Event,74.64,Automated Sensor,5.5,1.5,Dispersants,0.0,20.35636363636364,Low
+INC1344,2023-12-11,Arabian Sea,Human Error,177.29,Crew,7.1,4.4,Vacuum Trucks,3.72,109.86985915492959,Moderate
+INC1345,2023-12-12,Arabian Sea,Mechanical Failure,32.62,Crew,2.1,9.5,Bioremediation,2.6,147.56666666666666,Moderate
+INC1346,2023-12-13,North Sea,Mechanical Failure,49.21,Automated Sensor,3.3,6.8,Bioremediation,2.64,101.40242424242425,Moderate
+INC1347,2023-12-14,Gulf of Mexico,Mechanical Failure,278.0,Satellite,6.3,7.0,Vacuum Trucks,0.0,308.8888888888889,High
+INC1348,2023-12-15,Arabian Sea,Infrastructure,153.06,Satellite,3.5,6.7,Skimmers,4.07,293.0005714285714,High
+INC1349,2023-12-16,South China Sea,Natural Event,119.6,Coast Guard,5.5,2.8,Dispersants,1.3,60.887272727272716,Moderate
+INC1350,2023-12-17,Arabian Sea,Infrastructure,354.66,Satellite,0.5,4.8,Dispersants,1.57,3404.7360000000003,Critical
+INC1351,2023-12-18,Arabian Sea,Mechanical Failure,79.67,Coast Guard,10.4,7.8,Dispersants,0.4,59.752500000000005,Moderate
+INC1352,2023-12-19,Gulf of Mexico,Natural Event,177.0,Satellite,4.5,1.9,Vacuum Trucks,0.0,74.73333333333333,Moderate
+INC1353,2023-12-20,Bay of Bengal,Mechanical Failure,185.84,Satellite,7.4,3.5,Bioremediation,3.74,87.8972972972973,Moderate
+INC1354,2023-12-21,Arabian Sea,Infrastructure,239.49,Crew,4.3,3.5,Dispersants,3.93,194.93372093023257,Moderate
+INC1355,2023-12-22,North Sea,Infrastructure,29.08,Coast Guard,5.8,4.9,Bioremediation,1.75,24.56758620689655,Low
+INC1356,2023-12-23,Bay of Bengal,Infrastructure,79.26,Satellite,8.0,9.8,Dispersants,0.98,97.09350000000002,Moderate
+INC1357,2023-12-24,South China Sea,Mechanical Failure,106.41,Coast Guard,7.3,1.6,Dispersants,1.43,23.322739726027397,Low
+INC1358,2023-12-25,Gulf of Mexico,Natural Event,236.93,Crew,4.6,5.7,Vacuum Trucks,1.48,293.5871739130435,High
+INC1359,2023-12-26,South China Sea,Natural Event,116.17,Crew,4.7,2.6,Skimmers,0.2,64.26425531914894,Moderate
+INC1360,2023-12-27,Bay of Bengal,Mechanical Failure,186.11,Coast Guard,7.0,9.7,Vacuum Trucks,1.56,257.8952857142857,High
+INC1361,2023-12-28,Bay of Bengal,Natural Event,26.55,Crew,9.7,2.0,Dispersants,2.23,5.474226804123712,Low
+INC1362,2023-12-29,Bay of Bengal,Mechanical Failure,65.56,Automated Sensor,5.4,4.6,Dispersants,3.53,55.847407407407395,Moderate
+INC1363,2023-12-30,South China Sea,Natural Event,207.41,Automated Sensor,8.9,7.6,Skimmers,2.02,177.11415730337075,Moderate
+INC1364,2023-12-31,Bay of Bengal,Human Error,72.65,Crew,4.5,7.3,Bioremediation,0.0,117.85444444444445,Moderate
+INC1365,2024-01-01,South China Sea,Human Error,84.34,Automated Sensor,6.9,4.8,Bioremediation,2.53,58.67130434782608,Moderate
+INC1366,2024-01-02,Bay of Bengal,Infrastructure,234.45,Satellite,7.2,4.1,Dispersants,1.62,133.50625,Moderate
+INC1367,2024-01-03,North Sea,Human Error,39.75,Coast Guard,4.2,4.6,Bioremediation,4.06,43.535714285714285,Low
+INC1368,2024-01-04,Bay of Bengal,Human Error,48.52,Satellite,3.5,3.4,Dispersants,4.14,47.13371428571429,Low
+INC1369,2024-01-05,South China Sea,Human Error,23.78,Coast Guard,7.3,2.8,Skimmers,4.2,9.12109589041096,Low
+INC1370,2024-01-06,Arabian Sea,Mechanical Failure,240.61,Crew,3.9,5.3,Skimmers,1.16,326.9828205128205,High
+INC1371,2024-01-07,Bay of Bengal,Human Error,166.99,Satellite,3.2,3.4,Dispersants,4.98,177.42687499999997,Moderate
+INC1372,2024-01-08,Arabian Sea,Human Error,164.13,Crew,3.6,3.6,Skimmers,2.53,164.13000000000002,Moderate
+INC1373,2024-01-09,North Sea,Infrastructure,64.07,Crew,3.9,6.9,Vacuum Trucks,4.44,113.35461538461539,Moderate
+INC1374,2024-01-10,Gulf of Mexico,Human Error,21.97,Coast Guard,6.7,9.7,Vacuum Trucks,1.25,31.807313432835816,Low
+INC1375,2024-01-11,North Sea,Human Error,15.86,Coast Guard,6.0,6.4,Skimmers,1.55,16.917333333333335,Low
+INC1376,2024-01-12,Bay of Bengal,Natural Event,208.43,Coast Guard,6.4,1.7,Dispersants,2.41,55.36421875,Moderate
+INC1377,2024-01-13,Arabian Sea,Infrastructure,125.29,Satellite,5.8,1.7,Dispersants,2.23,36.72293103448276,Low
+INC1378,2024-01-14,Arabian Sea,Infrastructure,142.55,Automated Sensor,3.8,9.6,Skimmers,3.88,360.1263157894737,High
+INC1379,2024-01-15,South China Sea,Infrastructure,102.83,Coast Guard,6.4,3.7,Bioremediation,1.65,59.44859375,Moderate
+INC1380,2024-01-16,Arabian Sea,Infrastructure,43.52,Coast Guard,7.4,1.8,Vacuum Trucks,3.75,10.585945945945948,Low
+INC1381,2024-01-17,South China Sea,Infrastructure,66.5,Satellite,6.2,6.4,Bioremediation,3.1,68.64516129032258,Moderate
+INC1382,2024-01-18,Gulf of Mexico,Infrastructure,34.42,Coast Guard,5.9,6.6,Dispersants,1.68,38.50372881355932,Low
+INC1383,2024-01-19,Bay of Bengal,Mechanical Failure,30.47,Satellite,3.5,6.8,Dispersants,2.98,59.19885714285714,Moderate
+INC1384,2024-01-20,South China Sea,Human Error,157.78,Crew,5.4,3.4,Bioremediation,1.29,99.34296296296296,Moderate
+INC1385,2024-01-21,Gulf of Mexico,Infrastructure,17.51,Coast Guard,3.4,1.1,Skimmers,5.53,5.665000000000001,Low
+INC1386,2024-01-22,Arabian Sea,Human Error,34.64,Coast Guard,5.0,9.7,Bioremediation,0.0,67.2016,Moderate
+INC1387,2024-01-23,Arabian Sea,Human Error,69.66,Crew,1.7,3.3,Bioremediation,3.01,135.22235294117647,Moderate
+INC1388,2024-01-24,Gulf of Mexico,Mechanical Failure,90.32,Crew,1.7,7.1,Vacuum Trucks,0.0,377.21882352941174,High
+INC1389,2024-01-25,Arabian Sea,Infrastructure,23.48,Crew,4.6,7.4,Vacuum Trucks,1.66,37.77217391304348,Low
+INC1390,2024-01-26,Gulf of Mexico,Natural Event,115.12,Coast Guard,3.9,6.5,Bioremediation,1.87,191.86666666666667,Moderate
+INC1391,2024-01-27,South China Sea,Mechanical Failure,98.64,Automated Sensor,5.2,3.8,Bioremediation,4.26,72.08307692307692,Moderate
+INC1392,2024-01-28,South China Sea,Natural Event,206.04,Automated Sensor,4.7,3.4,Dispersants,0.96,149.05021276595744,Moderate
+INC1393,2024-01-29,Gulf of Mexico,Human Error,91.48,Automated Sensor,5.1,6.4,Vacuum Trucks,3.96,114.79843137254905,Moderate
+INC1394,2024-01-30,South China Sea,Human Error,123.55,Coast Guard,6.2,8.8,Vacuum Trucks,0.23,175.36129032258063,Moderate
+INC1395,2024-01-31,South China Sea,Mechanical Failure,45.74,Crew,4.1,9.5,Dispersants,4.02,105.98292682926831,Moderate
+INC1396,2024-02-01,South China Sea,Mechanical Failure,47.45,Coast Guard,4.6,2.0,Skimmers,1.29,20.6304347826087,Low
+INC1397,2024-02-02,North Sea,Natural Event,26.07,Crew,7.9,2.4,Vacuum Trucks,2.11,7.919999999999999,Low
+INC1398,2024-02-03,Bay of Bengal,Infrastructure,46.13,Coast Guard,5.0,9.5,Vacuum Trucks,1.5,87.647,Moderate
+INC1399,2024-02-04,Arabian Sea,Natural Event,65.71,Coast Guard,4.6,7.6,Skimmers,3.92,108.56434782608694,Moderate
+INC1400,2024-02-05,North Sea,Mechanical Failure,192.61,Crew,5.2,8.9,Vacuum Trucks,3.63,329.65942307692313,High
+INC1401,2024-02-06,South China Sea,Natural Event,40.21,Automated Sensor,4.7,2.8,Vacuum Trucks,2.67,23.954893617021273,Low
+INC1402,2024-02-07,Gulf of Mexico,Mechanical Failure,312.66,Crew,3.6,6.3,Skimmers,0.27,547.155,Critical
+INC1403,2024-02-08,South China Sea,Natural Event,131.3,Satellite,3.0,7.3,Skimmers,0.93,319.49666666666667,High
+INC1404,2024-02-09,Bay of Bengal,Mechanical Failure,113.0,Satellite,3.5,7.1,Bioremediation,0.46,229.22857142857143,High
+INC1405,2024-02-10,South China Sea,Mechanical Failure,86.19,Crew,6.7,4.7,Dispersants,0.0,60.46164179104478,Moderate
+INC1406,2024-02-11,Gulf of Mexico,Mechanical Failure,74.2,Coast Guard,3.7,1.1,Dispersants,3.89,22.05945945945946,Low
+INC1407,2024-02-12,Bay of Bengal,Infrastructure,52.28,Satellite,4.7,6.2,Skimmers,1.51,68.96510638297873,Moderate
+INC1408,2024-02-13,South China Sea,Natural Event,22.5,Satellite,6.4,3.3,Skimmers,1.49,11.6015625,Low
+INC1409,2024-02-14,Bay of Bengal,Natural Event,41.48,Coast Guard,4.4,5.1,Vacuum Trucks,4.24,48.0790909090909,Low
+INC1410,2024-02-15,Arabian Sea,Natural Event,240.23,Coast Guard,6.3,9.6,Bioremediation,1.29,366.06476190476184,High
+INC1411,2024-02-16,Arabian Sea,Mechanical Failure,125.72,Automated Sensor,1.9,4.6,Bioremediation,0.74,304.3747368421052,High
+INC1412,2024-02-17,South China Sea,Natural Event,238.83,Coast Guard,4.7,8.6,Skimmers,1.66,437.00808510638296,High
+INC1413,2024-02-18,Bay of Bengal,Natural Event,51.14,Crew,5.2,2.7,Vacuum Trucks,0.3,26.553461538461537,Low
+INC1414,2024-02-19,Gulf of Mexico,Mechanical Failure,33.49,Crew,5.0,7.1,Vacuum Trucks,2.52,47.5558,Low
+INC1415,2024-02-20,South China Sea,Human Error,85.55,Automated Sensor,1.7,9.8,Dispersants,1.44,493.17058823529413,High
+INC1416,2024-02-21,Arabian Sea,Mechanical Failure,42.86,Satellite,7.4,1.9,Dispersants,1.24,11.004594594594593,Low
+INC1417,2024-02-22,Arabian Sea,Natural Event,99.35,Satellite,3.3,1.1,Vacuum Trucks,1.11,33.11666666666667,Low
+INC1418,2024-02-23,South China Sea,Mechanical Failure,17.84,Coast Guard,5.7,4.9,Dispersants,1.84,15.336140350877194,Low
+INC1419,2024-02-24,Bay of Bengal,Human Error,9.52,Crew,5.0,1.8,Skimmers,2.13,3.4272,Low
+INC1420,2024-02-25,Arabian Sea,Mechanical Failure,109.89,Satellite,7.0,7.7,Vacuum Trucks,1.22,120.879,Moderate
+INC1421,2024-02-26,Bay of Bengal,Natural Event,244.63,Automated Sensor,9.4,9.2,Dispersants,1.46,239.42510638297873,High
+INC1422,2024-02-27,Arabian Sea,Human Error,113.41,Automated Sensor,2.4,4.9,Bioremediation,1.88,231.5454166666667,High
+INC1423,2024-02-28,Arabian Sea,Infrastructure,124.82,Crew,3.7,3.3,Vacuum Trucks,1.73,111.32594594594593,Moderate
+INC1424,2024-02-29,North Sea,Natural Event,88.34,Automated Sensor,5.4,4.9,Vacuum Trucks,2.05,80.16037037037037,Moderate
+INC1425,2024-03-01,Arabian Sea,Human Error,94.75,Automated Sensor,2.8,7.5,Bioremediation,0.98,253.79464285714286,High
+INC1426,2024-03-02,Gulf of Mexico,Human Error,21.34,Crew,6.6,1.1,Skimmers,3.51,3.556666666666667,Low
+INC1427,2024-03-03,South China Sea,Infrastructure,44.3,Coast Guard,6.7,6.3,Bioremediation,2.15,41.65522388059701,Low
+INC1428,2024-03-04,South China Sea,Mechanical Failure,191.3,Coast Guard,6.1,6.5,Vacuum Trucks,1.24,203.844262295082,High
+INC1429,2024-03-05,Bay of Bengal,Mechanical Failure,64.53,Automated Sensor,5.5,6.7,Skimmers,2.52,78.60927272727272,Moderate
+INC1430,2024-03-06,Arabian Sea,Natural Event,188.73,Coast Guard,7.7,3.2,Dispersants,1.89,78.43324675324675,Moderate
+INC1431,2024-03-07,Gulf of Mexico,Infrastructure,92.82,Coast Guard,2.7,7.4,Dispersants,0.0,254.39555555555552,High
+INC1432,2024-03-08,Bay of Bengal,Mechanical Failure,96.35,Automated Sensor,5.1,1.8,Dispersants,2.51,34.00588235294118,Low
+INC1433,2024-03-09,North Sea,Infrastructure,64.93,Coast Guard,3.5,2.8,Vacuum Trucks,0.47,51.944,Moderate
+INC1434,2024-03-10,Bay of Bengal,Mechanical Failure,137.91,Automated Sensor,6.8,8.9,Bioremediation,3.4,180.4998529411765,Moderate
+INC1435,2024-03-11,Bay of Bengal,Human Error,161.6,Satellite,1.3,7.6,Skimmers,1.64,944.7384615384614,Critical
+INC1436,2024-03-12,Arabian Sea,Mechanical Failure,42.2,Crew,4.9,1.1,Dispersants,3.17,9.473469387755102,Low
+INC1437,2024-03-13,North Sea,Infrastructure,23.55,Crew,5.7,3.2,Skimmers,1.05,13.221052631578948,Low
+INC1438,2024-03-14,Bay of Bengal,Human Error,12.12,Coast Guard,3.1,2.9,Vacuum Trucks,2.1,11.33806451612903,Low
+INC1439,2024-03-15,Gulf of Mexico,Human Error,120.61,Coast Guard,3.7,3.4,Dispersants,3.82,110.8308108108108,Moderate
+INC1440,2024-03-16,Gulf of Mexico,Human Error,111.02,Coast Guard,5.0,3.2,Vacuum Trucks,1.6,71.0528,Moderate
+INC1441,2024-03-17,South China Sea,Infrastructure,370.07,Crew,6.9,1.6,Bioremediation,1.11,85.81333333333332,Moderate
+INC1442,2024-03-18,North Sea,Natural Event,88.73,Satellite,2.9,5.1,Vacuum Trucks,2.98,156.04241379310344,Moderate
+INC1443,2024-03-19,North Sea,Natural Event,77.11,Satellite,3.3,7.6,Vacuum Trucks,2.95,177.58666666666667,Moderate
+INC1444,2024-03-20,South China Sea,Natural Event,101.81,Crew,7.3,6.5,Bioremediation,1.18,90.65273972602739,Moderate
+INC1445,2024-03-21,Bay of Bengal,Infrastructure,105.87,Satellite,4.5,7.1,Skimmers,0.0,167.03933333333333,Moderate
+INC1446,2024-03-22,North Sea,Human Error,72.54,Crew,3.4,1.7,Bioremediation,1.08,36.27,Low
+INC1447,2024-03-23,Gulf of Mexico,Natural Event,43.45,Satellite,6.5,9.6,Bioremediation,3.02,64.1723076923077,Moderate
+INC1448,2024-03-24,Gulf of Mexico,Infrastructure,85.17,Automated Sensor,4.0,8.5,Vacuum Trucks,0.84,180.98625,Moderate
+INC1449,2024-03-25,Arabian Sea,Natural Event,82.75,Automated Sensor,7.1,8.2,Skimmers,1.98,95.57042253521126,Moderate
+INC1450,2024-03-26,North Sea,Mechanical Failure,81.73,Crew,3.7,8.4,Dispersants,1.01,185.54918918918918,Moderate
+INC1451,2024-03-27,Bay of Bengal,Natural Event,148.05,Satellite,4.7,9.4,Bioremediation,0.0,296.1,High
+INC1452,2024-03-28,South China Sea,Natural Event,84.0,Coast Guard,6.9,5.9,Skimmers,0.99,71.82608695652173,Moderate
+INC1453,2024-03-29,South China Sea,Human Error,24.1,Satellite,4.5,2.8,Bioremediation,3.01,14.995555555555557,Low
+INC1454,2024-03-30,Bay of Bengal,Infrastructure,49.86,Automated Sensor,6.5,6.6,Bioremediation,0.0,50.62707692307692,Moderate
+INC1455,2024-03-31,Arabian Sea,Human Error,71.84,Automated Sensor,4.9,7.7,Bioremediation,2.38,112.89142857142856,Moderate
+INC1456,2024-04-01,South China Sea,Human Error,87.04,Satellite,9.0,7.6,Bioremediation,0.22,73.50044444444444,Moderate
+INC1457,2024-04-02,North Sea,Human Error,122.41,Satellite,8.1,5.7,Vacuum Trucks,2.91,86.14037037037038,Moderate
+INC1458,2024-04-03,Arabian Sea,Human Error,87.56,Coast Guard,2.3,1.6,Skimmers,3.07,60.911304347826096,Moderate
+INC1459,2024-04-04,North Sea,Human Error,9.8,Coast Guard,6.0,4.3,Skimmers,1.74,7.023333333333333,Low
+INC1460,2024-04-05,Gulf of Mexico,Natural Event,27.1,Satellite,3.4,9.3,Skimmers,1.75,74.1264705882353,Moderate
+INC1461,2024-04-06,Arabian Sea,Human Error,128.37,Satellite,5.4,6.3,Bioremediation,0.79,149.765,Moderate
+INC1462,2024-04-07,South China Sea,Human Error,70.3,Satellite,5.1,5.8,Vacuum Trucks,0.0,79.94901960784313,Moderate
+INC1463,2024-04-08,Arabian Sea,Infrastructure,93.3,Satellite,2.9,3.4,Bioremediation,4.55,109.38620689655171,Moderate
+INC1464,2024-04-09,Arabian Sea,Mechanical Failure,63.41,Crew,7.1,4.3,Bioremediation,0.7,38.403239436619714,Low
+INC1465,2024-04-10,Arabian Sea,Natural Event,49.68,Satellite,5.4,9.1,Skimmers,4.35,83.71999999999998,Moderate
+INC1466,2024-04-11,Arabian Sea,Natural Event,65.29,Coast Guard,4.4,7.0,Bioremediation,0.71,103.87045454545455,Moderate
+INC1467,2024-04-12,North Sea,Natural Event,94.13,Automated Sensor,4.1,8.1,Dispersants,2.79,185.96414634146342,Moderate
+INC1468,2024-04-13,Gulf of Mexico,Human Error,83.53,Crew,5.3,5.1,Bioremediation,0.29,80.37792452830189,Moderate
+INC1469,2024-04-14,Bay of Bengal,Human Error,160.88,Satellite,5.8,6.7,Dispersants,2.79,185.84413793103448,Moderate
+INC1470,2024-04-15,Arabian Sea,Human Error,19.54,Automated Sensor,4.8,3.2,Bioremediation,1.51,13.026666666666667,Low
+INC1471,2024-04-16,South China Sea,Infrastructure,22.58,Crew,0.5,7.3,Vacuum Trucks,1.53,329.66799999999995,High
+INC1472,2024-04-17,Arabian Sea,Mechanical Failure,69.65,Automated Sensor,5.0,4.8,Vacuum Trucks,2.92,66.864,Moderate
+INC1473,2024-04-18,South China Sea,Human Error,123.4,Satellite,2.1,5.0,Skimmers,1.3,293.8095238095238,High
+INC1474,2024-04-19,North Sea,Mechanical Failure,142.57,Satellite,4.6,6.8,Bioremediation,0.0,210.75565217391303,High
+INC1475,2024-04-20,South China Sea,Infrastructure,51.38,Coast Guard,2.2,9.4,Dispersants,3.14,219.53272727272727,High
+INC1476,2024-04-21,Bay of Bengal,Natural Event,3.02,Satellite,2.2,1.6,Dispersants,0.28,2.1963636363636367,Low
+INC1477,2024-04-22,Gulf of Mexico,Human Error,52.81,Satellite,7.5,8.4,Bioremediation,2.77,59.147200000000005,Moderate
+INC1478,2024-04-23,South China Sea,Mechanical Failure,111.27,Crew,4.4,3.6,Dispersants,3.46,91.0390909090909,Moderate
+INC1479,2024-04-24,South China Sea,Mechanical Failure,82.35,Coast Guard,4.2,5.0,Vacuum Trucks,1.44,98.03571428571428,Moderate
+INC1480,2024-04-25,Gulf of Mexico,Human Error,126.6,Crew,6.0,1.2,Dispersants,3.77,25.319999999999997,Low
+INC1481,2024-04-26,Bay of Bengal,Natural Event,186.89,Automated Sensor,4.3,3.7,Skimmers,2.72,160.81232558139533,Moderate
+INC1482,2024-04-27,Arabian Sea,Natural Event,73.51,Satellite,9.2,5.5,Vacuum Trucks,0.96,43.94619565217392,Low
+INC1483,2024-04-28,South China Sea,Natural Event,57.87,Automated Sensor,4.5,1.5,Vacuum Trucks,4.1,19.29,Low
+INC1484,2024-04-29,Gulf of Mexico,Infrastructure,38.27,Crew,5.7,5.4,Vacuum Trucks,0.29,36.25578947368422,Low
+INC1485,2024-04-30,North Sea,Mechanical Failure,22.44,Satellite,6.9,9.3,Bioremediation,1.43,30.24521739130435,Low
+INC1486,2024-05-01,Gulf of Mexico,Mechanical Failure,16.55,Satellite,8.2,1.9,Bioremediation,1.69,3.834756097560976,Low
+INC1487,2024-05-02,North Sea,Mechanical Failure,47.18,Crew,3.5,7.9,Vacuum Trucks,2.91,106.492,Moderate
+INC1488,2024-05-03,Bay of Bengal,Infrastructure,170.1,Crew,4.2,4.7,Bioremediation,3.67,190.35,Moderate
+INC1489,2024-05-04,Arabian Sea,Mechanical Failure,135.2,Crew,7.5,6.9,Dispersants,3.58,124.384,Moderate
+INC1490,2024-05-05,Gulf of Mexico,Infrastructure,55.64,Crew,6.6,3.3,Bioremediation,2.34,27.82,Low
+INC1491,2024-05-06,South China Sea,Natural Event,314.56,Crew,7.2,2.4,Bioremediation,1.58,104.85333333333332,Moderate
+INC1492,2024-05-07,Bay of Bengal,Human Error,50.03,Satellite,2.3,2.4,Vacuum Trucks,0.0,52.20521739130435,Moderate
+INC1493,2024-05-08,Gulf of Mexico,Mechanical Failure,198.77,Crew,8.1,1.6,Skimmers,0.03,39.263209876543215,Low
+INC1494,2024-05-09,South China Sea,Mechanical Failure,230.23,Satellite,3.5,2.7,Skimmers,4.65,177.606,Moderate
+INC1495,2024-05-10,Gulf of Mexico,Natural Event,116.69,Satellite,5.4,7.0,Skimmers,0.0,151.2648148148148,Moderate
+INC1496,2024-05-11,North Sea,Human Error,46.8,Crew,4.7,8.9,Dispersants,0.82,88.62127659574467,Moderate
+INC1497,2024-05-12,Gulf of Mexico,Infrastructure,61.91,Crew,3.2,8.3,Bioremediation,3.72,160.57906250000002,Moderate
+INC1498,2024-05-13,Gulf of Mexico,Human Error,95.83,Coast Guard,2.2,7.2,Skimmers,2.31,313.62545454545455,High
+INC1499,2024-05-14,Gulf of Mexico,Natural Event,23.12,Satellite,1.5,2.0,Vacuum Trucks,3.39,30.826666666666668,Low
